@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 11ea6ce0-cb1d-4406-9256-e01afb6cf8c8)
+
+  (paper "A4")
+
+  (title_block
+    (title "Smart Watch")
+    (date "2022-08-02")
+    (rev "Version 1.0")
+    (company "University of Southern Denmark")
+    (comment 1 "SRM")
+  )
+
+  (lib_symbols
+  )
+
+)
